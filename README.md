@@ -21,4 +21,4 @@ circuits.
 
 ## License
 
-Each human being has a right to copy. Copying means reproducing useful stuff which has been done by humans since the beginning of civilization - to my mind civilization is nothing but copying the attitude of other humans. What would happen if the usage of spoken words would be limited to just some individuals, capable of paying licenses? The pictures, circuit layouts, software and text passages created for this project are freely available!
+See the [LICENSE](https://github.com/gustavohb/strain-gage-based-scale-system/edit/master/LICENSE.md) file for license rights and limitations (MIT).
