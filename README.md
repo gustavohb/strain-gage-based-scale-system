@@ -1,4 +1,4 @@
-# Strain Gage-based Scale System Using Arduino and MATLAB
+# Strain Gage-based Scale System
 
 The software interface for the strain gage-based scale system was written as part of a summer project at the Montana State University, Bozeman.
 
