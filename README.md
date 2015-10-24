@@ -1,5 +1,9 @@
 # Strain Gage-based Scale System Using Arduino and MATLAB
 
+The software interface for the strain gage-based scale system was written as part of a summer project at the Montana State University, Bozeman.
+
+The primary requeriment of the interface was to provide real time readout of the load applied in grams.
+
 ## Design Specifications
 
 The project had two main design components. The first objective was to implement two signal conditioning circuits for the load cell. The second goal was to developed a data acquisition system with a graphical user interface (GUI) to evaluate the strain gage measure accuracy and strain gage measure calibration of each signal conditioning circuit.
@@ -41,3 +45,7 @@ and it consists primarily of an instrumentation amplifier with gain to condition
 ![alt text][block_diagram]
 
 [block_diagram]: https://github.com/gustavohb/strain-gage-based-scale-system/blob/master/images/block_diagram.png
+
+## License
+
+Each human being has a right to copy. Copying means reproducing useful stuff which has been done by humans since the beginning of civilization - to my mind civilization is nothing but copying the attitude of other humans. What would happen if the usage of spoken words would be limited to just some individuals, capable of paying licenses? The pictures, circuit layouts, software and text passages created for this project are freely available!
