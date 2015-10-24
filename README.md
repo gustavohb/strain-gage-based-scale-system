@@ -10,7 +10,7 @@ The primary requeriment of the interface was to provide real time readout of the
 This project uses an Arduino Uno board to sample the load data and communicate with the MATLAB via USB.
 
 
-#### What has been implemented:
+### What has been implemented:
 
 * Automate the process of taking and displaying weigh measures.
 * Demonstrate the changes in the system performance by
