@@ -12,7 +12,7 @@ This project uses an Arduino Uno board to sample the load data and communicate w
 
 ### What does this code do?
 
-* Automate the process of taking and displaying weigh measures.
+* Automate the process of taking and displaying weight measures.
 * Demonstrate the changes in the system performance by
 adjusting the parameters of the sensor signal conditioning
 circuits.
