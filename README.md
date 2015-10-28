@@ -1,8 +1,8 @@
 # Strain Gage-based Scale System
 
-The software interface for the strain gage-based scale system was written as part of a summer project at the Montana State University, Bozeman.
+This user interface for a strain gage-based scale system was written as part of a summer project at the Montana State University, Bozeman.
 
-The primary requeriment of the interface was to provide real time readout of the load applied in grams.
+The primary requeriment of the user interface was to provide real time readout of the load applied in grams.
 
 
 ## About
