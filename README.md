@@ -23,4 +23,4 @@ circuits.
 
 ## License
 
-See the [LICENSE](https://github.com/gustavohb/strain-gage-based-scale-system/blob/master/LICENSE.MD) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/gustavohb/strain-gage-based-scale-system/blob/master/LICENSE) file for license rights and limitations (MIT).
