@@ -8,7 +8,7 @@
     * Analog sensor attached to analog input 0
     
   Created 1 August 2015
-  By Gustavo H. Barrionuevo  <gustavo@barrionuevo.me>
+  By Gustavo H. Barrionuevo  <gustavohb@gmail.com>
 
   This code is in the public domain.
 
