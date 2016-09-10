@@ -9,7 +9,7 @@ The primary requeriment of the user interface was to provide real time readout o
 
 ## About
 
-This project uses an Arduino Uno board to sample the load data and communicate with the MATLAB via USB.
+This project uses an Arduino Uno board to sample the load data and communicate with MATLAB via USB.
 
 
 ### What does this code do?
