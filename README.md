@@ -1,6 +1,6 @@
 # Strain Gage-based Scale System
 
-This user interface for a strain gage-based scale system was written as part of a summer project at the Montana State University, Bozeman.
+This user interface for a strain gage-based scale system was written as part of a summer project at Montana State University, Bozeman.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/3193712/10882088/0afde71c-814f-11e5-9c5e-3772b41304bf.png)
 
